@@ -19,7 +19,7 @@
     <option_android_arch_mipsr2>false</option_android_arch_mipsr2>
     <option_android_arch_mipsr2sf>false</option_android_arch_mipsr2sf>
     <option_android_arch_x86>True</option_android_arch_x86>
-    <option_android_build_version>5</option_android_build_version>
+    <option_android_build_version>6</option_android_build_version>
     <option_android_color_depth>0</option_android_color_depth>
     <option_android_display_name>Tennis Touch</option_android_display_name>
     <option_android_flurry_enable>0</option_android_flurry_enable>
@@ -359,5 +359,12 @@
     <option_winphone_tile_type>0</option_winphone_tile_type>
     <option_writeerrors>False</option_writeerrors>
   </Options>
-  <ConfigConstants/>
+  <ConfigConstants>
+    <constants number="4">
+      <constant name="__p1">0</constant>
+      <constant name="__p2">1</constant>
+      <constant name="__p3">2</constant>
+      <constant name="__p4">3</constant>
+    </constants>
+  </ConfigConstants>
 </Config>
